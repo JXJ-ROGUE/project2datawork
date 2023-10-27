@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color:aqua;
+  background-color: darkblue;
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
+
+h1, p{
+  text-align: center;
+
+}
